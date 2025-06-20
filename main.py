@@ -1,3 +1,9 @@
+"""
+Создаёт серию коммитов в Git, начиная с указанной даты.
+
+Для имитации истории активности.
+"""
+
 import os
 from datetime import datetime, timedelta
 
